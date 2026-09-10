@@ -2,7 +2,10 @@
 
 Senior Economist, Research Centre, Deutsche Bundesbank.
 
-I work on geopolitical risk, financial cycles, macro-financial linkages, and time series econometrics. Papers and CV: [website](https://sites.google.com/site/yvesschueler/home). Contact: yves.schueler (at) bundesbank.de
+I work on geopolitical risk, financial cycles, macro-financial linkages, and time series econometrics. 
+
+Papers and CV: [website](https://sites.google.com/site/yvesschueler/home). 
+Contact: yves.schueler (at) bundesbank.de
 
 ## Data
 
